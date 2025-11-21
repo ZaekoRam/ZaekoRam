@@ -23,5 +23,5 @@
 
 ```txt
 > Python dev · Pygame enjoyer · Chainsaw Man addict  
-> Makima, glitch, red & black.  
+> Me gusta muchisímo la música y los videojuegos.  
 > Coding like a devil hunter in silence.
