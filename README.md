@@ -1,8 +1,8 @@
 <!-- BANNER PRINCIPAL — Makima B/N + glitch + japonés -->
 <p align="center">
-  <!-- Cambia esta URL por tu banner de Makima -->
-  <img src="https://i.redd.it/iy8zma0n9r751.gif" width="900" alt="Makima glitch banner">
+  <img src="https://i.imgur.com/at4XODq.gif" width="900" alt="Makima glitch banner">
 </p>
+
 
 <p align="center">
   <sub>プロジェクト・マキマ</sub><br>
@@ -17,7 +17,7 @@
 
 ━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━
 
-# 𖤐 こんにちは, I'm Carlo
+# 𖤐 こんにちは, I'm Carlo Ramirez!
 
 ```txt
 > Python dev · Pygame enjoyer · Chainsaw Man addict  
