@@ -36,6 +36,11 @@
 
 <br>
 
+<p align="center">
+  <img src="makima_loading_optimized.gif" width="650" alt="Makima NOW LOADING">
+  <br>
+  <sub><i>NOW LOADING… 静かに従え。</i></sub>
+</p>
 
 
 
