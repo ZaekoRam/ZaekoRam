@@ -4,7 +4,7 @@
 
 <p align="center">
   <sub>プロジェクト・マキマ</sub><br>
-  <i>"In the silence of the code, the devil listen."</i>
+  <i>"In the silence, the devil listen."</i>
 </p>
 
 <p align="center">
