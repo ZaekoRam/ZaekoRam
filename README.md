@@ -5,22 +5,40 @@
 
 <p align="center">
   <sub>プロジェクト・マキマ</sub><br>
-  <i>"In the silence of the code, the devil listens."</i>
+  <i>"In the silence of the code, the devil listen."</i>
 </p>
 
 
 <p align="center">
 
-  <!-- Badge: ZaekoRam en japonés -->
-  <img src="https://img.shields.io/badge/ザエコラム-黒-red?style=for-the-badge&labelColor=000000">
+  <!-- ZaekoRam (japonés) -->
+  <img src="https://img.shields.io/badge/ザエコラム-黒-8b0000?style=for-the-badge&labelColor=000000">
 
-  <!-- Badge: Makima Cult -->
-  <img src="https://img.shields.io/badge/Makima%20Cult-支配-red?style=for-the-badge&labelColor=111111">
+  <!-- Makima Cult (más elegante) -->
+  <img src="https://img.shields.io/badge/Makima%20Cult-支配-700000?style=for-the-badge&labelColor=111111">
 
-  <!-- Badge: Código demoníaco -->
-  <img src="https://img.shields.io/badge/悪魔のコード-静-black?style=for-the-badge&labelColor=8b0000">
+  <!-- Demon Code (versión más sutil) -->
+  <img src="https://img.shields.io/badge/悪魔のコード-静-5c0000?style=for-the-badge&labelColor=0a0a0a">
 
 </p>
+
+<h2 align="center">📨 Contact / 連絡先</h2>
+
+<p align="center"><i>静 — silencio.</i></p>
+
+<div align="center">
+
+💬 <b>Discord:</b> zaekoram  
+🎮 <b>Steam:</b> <a href="https://steamcommunity.com/id/ZaekoRam/">ZaekoRam</a>  
+✉️ <b>Email:</b> jramirez195@ucol.mx  
+
+</div>
+
+<br>
+
+
+
+
 
 
 ━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━
