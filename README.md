@@ -91,6 +91,7 @@ gap: 18px;
 #  こんにちは, I'm Carlo
 
 ```txt
-> Python dev · Pygame enjoyer · Chainsaw Man addict  
-> Makima, glitch, red & black.  
-> Coding like a devil hunter in silence.
+› Python dev · Pygame enjoyer · Chainsaw Man addict  
+› Me gusta muchísimo la música y los videojuegos.  
+› Suelo tocar el piano en mis tiempos libres.
+
