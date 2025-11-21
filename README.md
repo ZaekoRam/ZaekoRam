@@ -88,8 +88,9 @@ gap: 18px;
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# 𖤐 こんにちは, I'm Carlo Ramirez!
+#  こんにちは, I'm Carlo
 
-- Python dev · Pygame enjoyer · Chainsaw Man addict  
-- Me gusta muchisímo la música y los videojuegos.  
-- Suelo tocar el piano en mis tiempos libres.
+```txt
+> Python dev · Pygame enjoyer · Chainsaw Man addict  
+> Makima, glitch, red & black.  
+> Coding like a devil hunter in silence.
