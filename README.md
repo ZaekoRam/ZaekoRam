@@ -29,7 +29,7 @@
 <div align="center">
 
 💬 <b>Discord:</b> zaekoram  
-🎮 <b>Steam:</b> <a href="https://steamcommunity.com/id/ZaekoRam/">ZaekoRam</a>  
+🎮 <b>Steam:</b> <a href="https://steamcommunity.com/id/zaekoram10/">ZaekoRam</a>  
 ✉️ <b>Email:</b> jramirez195@ucol.mx  
 
 </div>
