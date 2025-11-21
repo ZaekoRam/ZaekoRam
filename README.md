@@ -1,6 +1,7 @@
 <!-- BANNER PRINCIPAL — Makima B/N + glitch + japonés -->
 <p align="center">
-  <img src="YOUR_MAKIMA_BANNER_URL" width="900" alt="Makima glitch banner">
+  <img src="<img width="714" height="254" alt="image" src="https://github.com/user-attachments/assets/0915a9b0-6d8a-47d6-8888-d04afd52b2f1" />
+" width="900" alt="Makima glitch banner">
 </p>
 
 <!-- FRASE ESTÉTICA -->
