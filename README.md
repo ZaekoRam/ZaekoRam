@@ -1,7 +1,9 @@
 <!-- BANNER PRINCIPAL — Makima B/N + glitch + japonés -->
 <p align="center">
-  <img src="https://i.imgur.com/at4XODq.gif" width="900" alt="Makima glitch banner">
+  <img src="https://files.catbox.moe/2udfmb.gif" width="900" alt="Makima glitch banner">
 </p>
+
+
 
 
 <p align="center">
