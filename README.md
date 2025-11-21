@@ -1,10 +1,9 @@
 <!-- BANNER PRINCIPAL — Makima B/N + glitch + japonés -->
 <p align="center">
-  <img src="<img width="714" height="254" alt="image" src="https://github.com/user-attachments/assets/0915a9b0-6d8a-47d6-8888-d04afd52b2f1" />
-" width="900" alt="Makima glitch banner">
+  <!-- Cambia esta URL por tu banner de Makima -->
+  <img src="https://i.redd.it/iy8zma0n9r751.gif" width="900" alt="Makima glitch banner">
 </p>
 
-<!-- FRASE ESTÉTICA -->
 <p align="center">
   <sub>プロジェクト・マキマ</sub><br>
   <i>"In the silence of the code, the devil listens."</i>
